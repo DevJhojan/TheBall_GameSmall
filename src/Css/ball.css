@@ -1,0 +1,7 @@
+.ball{
+    width: 10rem;
+    height: 10rem;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute; /*Es super importante que el objeto tenga la posición absoluta para poder moverlo*/
+}
